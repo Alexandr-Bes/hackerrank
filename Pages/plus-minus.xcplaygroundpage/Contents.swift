@@ -1,5 +1,4 @@
 
-
 // Calculates which fraction of an integer array's elements are positive, negative, and zero.
 //
 // https://www.hackerrank.com/challenges/plus-minus

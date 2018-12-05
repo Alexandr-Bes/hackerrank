@@ -1,5 +1,4 @@
 
-
 // Prints the sum of the array's elements, some of which may be very large.
 //
 // https://www.hackerrank.com/challenges/a-very-big-sum
