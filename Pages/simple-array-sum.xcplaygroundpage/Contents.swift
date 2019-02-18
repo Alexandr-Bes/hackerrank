@@ -1,7 +1,7 @@
 
-// Prints the sum of the array's elements as a single integer.
+// Returns the sum of the array's elements as a single integer.
 //
-// https://www.hackerrank.com/challenges/simple-array-sum
+// https://www.hackerrank.com/challenges/simple-array-sum/problem
 
 import Foundation
 
@@ -14,3 +14,4 @@ func simpleArraySum(ar: [Int]) -> Int {
     }
     return totalSum
 }
+
