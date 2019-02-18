@@ -6,5 +6,7 @@
         <page name='simple-array-sum'/>
         <page name='mini-max-sum'/>
         <page name='Staircase'/>
+        <page name='birthday-cake-candles'/>
+        <page name='time-conversion'/>
     </pages>
 </playground>
