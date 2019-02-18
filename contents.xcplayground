@@ -5,5 +5,6 @@
         <page name='a-very-big-sum'/>
         <page name='simple-array-sum'/>
         <page name='mini-max-sum'/>
+        <page name='Staircase'/>
     </pages>
 </playground>
