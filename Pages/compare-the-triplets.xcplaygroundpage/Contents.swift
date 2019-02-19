@@ -20,6 +20,7 @@ func compareTriplets(a: [Int], b: [Int]) -> [Int] {
         }
         finalScore = [firstScores] + [secondScores]
     }
-    
+
     return finalScore
 }
+
