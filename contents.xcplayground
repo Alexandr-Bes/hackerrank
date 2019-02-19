@@ -10,5 +10,6 @@
         <page name='time-conversion'/>
         <page name='diagonal-difference'/>
         <page name='compare-the-triplets'/>
+        <page name='divisible-sum-pairs'/>
     </pages>
 </playground>
