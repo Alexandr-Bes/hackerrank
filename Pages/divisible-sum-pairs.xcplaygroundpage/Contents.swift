@@ -19,4 +19,3 @@ func divisibleSumPairs(n: Int, k: Int, ar: [Int]) -> Int {
 
     return numberOfDividends
 }
-
