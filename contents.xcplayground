@@ -12,5 +12,7 @@
         <page name='compare-the-triplets'/>
         <page name='divisible-sum-pairs'/>
         <page name='camelcase'/>
+        <page name='grading-students'/>
+        <page name='apple-and-orange'/>
     </pages>
 </playground>
