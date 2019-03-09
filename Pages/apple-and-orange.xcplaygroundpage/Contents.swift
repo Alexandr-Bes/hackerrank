@@ -1,6 +1,8 @@
 
 // Practice > Algorithms > Implementation > Apple and Orange
-// Returns an integer array consisting of rounded grades.
+// Print two integers on two different lines:
+//      1. The first integer: the number of apples that fall on Sam's house.
+//      2. The second integer: the number of oranges that fall on Sam's house.
 //
 // https://www.hackerrank.com/challenges/apple-and-orange/problem
 
