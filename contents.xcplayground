@@ -15,5 +15,8 @@
         <page name='grading-students'/>
         <page name='apple-and-orange'/>
         <page name='bon-appetit'/>
+        <page name='Stack'/>
+        <page name='utopian-tree'/>
+        <page name='Migratory Birds'/>
     </pages>
 </playground>
