@@ -37,3 +37,26 @@ func sockMerchant(n: Int, ar: [Int]) -> Int {
 
 let arr = [1, 2, 1, 2, 1, 3, 2]
 sockMerchant(n: 9, ar: arr)
+
+
+/* Another Version with:
+    Time Complexity: O(n)
+    Space Complexity: O(n)
+*/
+
+func sockPairs(n: Int, ar:[Int]) -> Int {
+    var pairs = 0
+    var setOfPairs = Set<Int>()
+
+    for index in 0...(n-1) {
+        if (!setOfPairs.contains(ar[index])) {
+            setOfPairs.insert(ar[index])
+        } else {
+            pairs += 1
+            setOfPairs.remove(ar[index])
+        }
+    }
+    return pairs
+}
+
+sockPairs(n: 9, ar: [10, 20, 20, 10, 10, 30, 50, 10, 20])
