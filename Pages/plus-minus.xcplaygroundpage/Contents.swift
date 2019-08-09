@@ -25,3 +25,5 @@ func plusMinus(arr: [Int]) -> Void {
     print(Double(Double(zero) / Double(arr.count)))
 
 }
+
+
