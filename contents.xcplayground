@@ -30,5 +30,6 @@
         <page name='Library-Fine'/>
         <page name='Viral-Advertising'/>
         <page name='Minimum-Distances'/>
+        <page name='Find Digits'/>
     </pages>
 </playground>
