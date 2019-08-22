@@ -35,5 +35,6 @@
         <page name='Equalize-the-Array'/>
         <page name='HackerRank-in-a-String'/>
         <page name='Save-the-Prisoner'/>
+        <page name='Super-Reduced-String'/>
     </pages>
 </playground>
